@@ -1,0 +1,1 @@
+console.log("Hey all, from Script in New Directory!");
